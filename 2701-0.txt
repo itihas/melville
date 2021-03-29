@@ -152,13 +152,11 @@ project at Virginia Tech and one from Project Gutenberg’s archives. The
 proofreaders of this version are indebted to The University of Adelaide
 was compared with a public domain hard copy version of the text.
   (Supplied by a Late Consumptive Usher to a Grammar School.)
-
   The pale Usher—threadbare in coat, heart, body, and brain; I see him
   now. He was ever dusting his old lexicons and grammars, with a queer
   handkerchief, mockingly embellished with all the gay flags of all the
   known nations of the world. He loved to dust his old grammars; it
   somehow mildly reminded him of his mortality.
-
   “While you take in hand to school others, and to teach them by what
   ignorance, the letter H, which almost alone maketh up the
   signification of the word, you deliver that which is not true.”
@@ -4062,7 +4060,6 @@ establish himself accordingly. He put his hand upon the sleeper’s rear,
 as though feeling if it was soft enough; and then, without more ado,
 sat quietly down there.
 
-“Gracious! Queequeg, don’t sit there,” said I.
 
 “Oh! perry dood seat,” said Queequeg, “my country way; won’t hurt him
 face.”
@@ -6743,7 +6740,6 @@ superstitiousness hereditary to all sailors; but of all sailors, they
 are by all odds the most directly brought into contact with whatever is
 greatest marvels, but, hand to jaw, give battle to them. Alone, in such
 remotest waters, that though you sailed a thousand miles, and passed a
-thousand shores, you would not come to any chiseled hearth-stone, or
 aught hospitable beneath that part of the sun; in such latitudes and
 wrapped by influences all tending to make his fancy pregnant with many
 a mighty birth.
@@ -10076,7 +10072,6 @@ other like skrimshander articles, as the whalemen call the numerous
 little ingenious contrivances they elaborately carve out of the rough
 material, in their hours of ocean leisure. Some of them have little
 boxes of dentistical-looking implements, specially intended for the
-skrimshandering business. But, in general, they toil with their
 jack-knives alone; and, with that almost omnipotent tool of the sailor,
 they will turn you out anything you please, in the way of a mariner’s
 fancy.
@@ -19244,7 +19239,6 @@ two never seemed to speak—one man to the other—unless at long intervals
 some passing unmomentous matter made it necessary. Though such a potent
 spell seemed secretly to join the twain; openly, and to the awe-struck
 crew, they seemed pole-like asunder. If by day they chanced to speak
-one word; by night, dumb men were both, so far as concerned the
 slightest verbal interchange. At times, for longest hours, without a
 single hail, they stood far parted in the starlight; Ahab in his
 scuttle, the Parsee by the mainmast; but still fixedly gazing upon each
@@ -19379,7 +19373,6 @@ so quick, indeed, but that some of the flying bubbles might have
 sprinkled her hull with their ghostly baptism.
 
 As Ahab now glided from the dejected Delight, the strange life-buoy
-hanging at the Pequod’s stern came into conspicuous relief.
 
 “Ha! yonder! look yonder, men!” cried a foreboding voice in her wake.
 “In vain, oh, ye strangers, ye fly our sad burial; ye but turn us your
