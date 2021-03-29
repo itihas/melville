@@ -147,13 +147,10 @@ CHAPTER 134. The Chase—Second Day.
 CHAPTER 135. The Chase.—Third Day.
 Epilogue
 Original Transcriber’s Notes:
-
 This text is a combination of etexts, one from the now-defunct ERIS
 project at Virginia Tech and one from Project Gutenberg’s archives. The
 proofreaders of this version are indebted to The University of Adelaide
 was compared with a public domain hard copy version of the text.
-
-
 
 
 
@@ -4809,7 +4806,6 @@ gazed aft to mark if any strange face were visible; for my first vague
 disquietude touching the unknown captain, now in the seclusion of the
 sea, became almost a perturbation. This was strangely heightened at
 times by the ragged Elijah’s diabolical incoherences uninvitedly
-recurring to me, with a subtle energy I could not have before conceived
 of. But poorly could I withstand them, much as in other moods I was
 almost ready to smile at the solemn whimsicalities of that outlandish
 prophet of the wharves. But whatever it was of apprehensiveness or
@@ -9410,7 +9406,6 @@ won’t be flogged.’
 
 “Steelkilt glanced round him a moment, and then said:—‘I tell you what
 it is now, Captain, rather than kill ye, and be hung for such a shabby
-rascal, we won’t lift a hand against ye unless ye attack us; but till
 you say the word about not flogging us, we don’t do a hand’s turn.’
 
 “‘Down into the forecastle then, down with ye, I’ll keep ye there till
@@ -10271,7 +10266,6 @@ Consider all this; and then turn to this green, gentle, and most docile
 earth; consider them both, the sea and the land; and do you not find a
 strange analogy to something in yourself? For as this appalling ocean
 surrounds the verdant land, so in the soul of man there lies one
-insular Tahiti, full of peace and joy, but encompassed by all the
 horrors of the half known life. God keep thee! Push not off from that
 isle, thou canst never return!
 
@@ -11585,7 +11579,6 @@ interval of some few yards between itself and the ship, the Jeroboam’s
 boat by the occasional use of its oars contrived to keep parallel to
 the Pequod, as she heavily forged through the sea (for by this time it
 blew very fresh), with her main-topsail aback; though, indeed, at times
-by the sudden onset of a large rolling wave, the boat would be pushed
 some way ahead; but would be soon skilfully brought to her proper
 bearings again. Subject to this, and other the like interruptions now
 and then, a conversation was sustained between the two parties; but at
@@ -17670,7 +17663,6 @@ some blessing on the toil. But, as Ahab looked up, he slid aside.
 
 “What’s that bunch of lucifers dodging about there for?” muttered
 Stubb, looking on from the forecastle. “That Parsee smells fire like a
-fusee; and smells of it himself, like a hot musket’s powder-pan.”
 
 At last the shank, in one complete rod, received its final heat; and as
 Perth, to temper it, plunged it all hissing into the cask of water near
@@ -19712,7 +19704,6 @@ With oars apeak, and paddles down, the sheets of their sails adrift,
 the three boats now stilly floated, awaiting Moby Dick’s reappearance.
 
 “An hour,” said Ahab, standing rooted in his boat’s stern; and he gazed
-beyond the whale’s place, towards the dim blue spaces and wide wooing
 vacancies to leeward. It was only an instant; for again his eyes seemed
 whirling round in his head as he swept the watery circle. The breeze
 now freshened; the sea began to swell.
