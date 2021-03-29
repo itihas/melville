@@ -12,7 +12,6 @@ Release Date: June, 2001 [eBook #2701]
 [Most recently updated: December 3, 2017]
 Language: English
 Produced by: Daniel Lazarus, Jonesey, and David Widger
-
 *** START OF THE PROJECT GUTENBERG EBOOK MOBY-DICK; OR THE WHALE ***
 
 
@@ -2625,7 +2624,6 @@ As I sat there in that now lonely room; the fire burning low, in that
 mild stage when, after its first intensity has warmed the air, it then
 only glows to be looked at; the evening shades and phantoms gathering
 round the casements, and peering in upon us silent, solitary twain; the
-storm booming without in solemn swells; I began to be sensible of
 strange feelings. I felt a melting in me. No more my splintered heart
 and maddened hand were turned against the wolfish world. This soothing
 savage had redeemed it. There he sat, his very indifference speaking a
@@ -6506,7 +6504,6 @@ magnets; an error ascribable to the horizontal vicinity of the iron in
 the ship’s planks, and in the Glacier’s case, perhaps, to there having
 been so many broken-down blacksmiths among her crew; I say, that though
 the Captain is very discreet and scientific here, yet, for all his
-learned “binnacle deviations,” “azimuth compass observations,” and
 “approximate errors,” he knows very well, Captain Sleet, that he was
 not so much immersed in those profound magnetic meditations, as to fail
 being attracted occasionally towards that well replenished little
@@ -7146,7 +7143,6 @@ Pirohitee’s peak of spears, when they leap down the crags and drown the
 villages?—The blast! the blast! Up, spine, and meet it! (_Leaps to his
 feet_.)
 
-PORTUGUESE SAILOR. How the sea rolls swashing ’gainst the side! Stand
 by for reefing, hearties! the winds are just crossing swords, pell-mell
 they’ll go lunging presently.
 
@@ -13835,7 +13831,6 @@ advancing boats, and also his oil-can; perhaps with the double view of
 retarding his rivals’ way, and at the same time economically
 accelerating his own by the momentary impetus of the backward toss.
 
-“The unmannerly Dutch dogger!” cried Stubb. “Pull now, men, like fifty
 thousand line-of-battle-ship loads of red-haired devils. What d’ye say,
 Tashtego; are you the man to snap your spine in two-and-twenty pieces
 for the honor of old Gayhead? What d’ye say?”
@@ -14435,7 +14430,6 @@ hour and more (when at the bottom) without drawing a single breath, or
 so much as in any way inhaling a particle of air; for, remember, he has
 no gills. How is this? Between his ribs and on each side of his spine
 he is supplied with a remarkable involved Cretan labyrinth of
-vermicelli-like vessels, which vessels, when he quits the surface, are
 completely distended with oxygenated blood. So that for an hour or
 more, a thousand fathoms in the sea, he carries a surplus stock of
 vitality in him, just as the camel crossing the waterless desert
@@ -14878,7 +14872,6 @@ semicircle, and swimming on, in one solid, but still crescentic centre.
 Crowding all sail the Pequod pressed after them; the harpooneers
 handling their weapons, and loudly cheering from the heads of their yet
 suspended boats. If the wind only held, little doubt had they, that
-chased through these Straits of Sunda, the vast host would only deploy
 into the Oriental seas to witness the capture of not a few of their
 number. And who could tell whether, in that congregated caravan, Moby
 Dick himself might not temporarily be swimming, like the worshipped
@@ -20717,7 +20710,6 @@ altered, and the sail to be shortened.
 The acute policy dictating these movements was sufficiently vindicated
 at daybreak, by the sight of a long sleek on the sea directly and
 lengthwise ahead, smooth as oil, and resembling in the pleated watery
-wrinkles bordering it, the polished metallic-like marks of some swift
 tide-rip, at the mouth of a deep, rapid stream.
 
 “Man the mast-heads! Call all hands!”
@@ -22021,7 +22013,6 @@ work or any other work associated with Project Gutenberg-tm.
 1.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
 1.E.6. You may convert to and distribute this work in any binary,
