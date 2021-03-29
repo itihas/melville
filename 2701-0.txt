@@ -236,12 +236,9 @@ EXTRACTS.
   great security, and there sleeps.” —MONTAIGNE. —_Apology for Raimond
   “Let us fly, let us fly! Old Nick take me if is not Leviathan
   —_Rabelais_.
-
   “This whale’s liver was two cartloads.” —_Stowe’s Annals_.
-
   “The great Leviathan that maketh the seas to seethe like boiling
   pan.” —_Lord Bacon’s Version of the Psalms_.
-
   “Touching that monstrous bulk of the whale or ork we have received
   nothing certain. They grow exceeding fat, insomuch that an incredible
   quantity of oil will be extracted out of one whale.” —_Ibid_.
@@ -766,7 +763,6 @@ Though I cannot tell why it was exactly that those stage managers, the
 Fates, put me down for this shabby part of a whaling voyage, when
 others were set down for magnificent parts in high tragedies, and short
 and easy parts in genteel comedies, and jolly parts in farces—though I
-cannot tell why this was exactly; yet, now that I recall all the
 circumstances, I think I can see a little into the springs and motives
 which being cunningly presented to me under various disguises, induced
 me to set about performing the part I did, besides cajoling me into the
@@ -5063,7 +5059,6 @@ essayed. Listen to what the best and latest authorities have laid down.
 “No branch of Zoology is so much involved as that which is entitled
 Cetology,” says Captain Scoresby, A.D. 1820.
 
-“It is not my intention, were it in my power, to enter into the inquiry
 as to the true method of dividing the cetacea into groups and families.
 * * * Utter confusion exists among the historians of this animal”
 (sperm whale), says Surgeon Beale, A.D. 1839.
@@ -6859,7 +6854,6 @@ spread, floated across the tranquil tropics, and, to all appearances,
 the old man’s delirium seemed left behind him with the Cape Horn
 swells, and he came forth from his dark den into the blessed light and
 air; even then, when he bore that firm, collected front, however pale,
-and issued his calm orders once again; and his mates thanked God the
 direful madness was now gone; even then, Ahab, in his hidden self,
 When you think it fled, it may have but become transfigured into some
 contracted; like the unabated Hudson, when that noble Northman flows
@@ -10004,7 +9998,6 @@ the Greek savage, Achilles’s shield; and full of barbaric spirit and
 suggestiveness, as the prints of that fine old Dutch savage, Albert
 Durer.
 
-Wooden whales, or whales cut in profile out of the small dark slabs of
 the noble South Sea war-wood, are frequently met with in the
 forecastles of American whalers. Some of them are done with much
 accuracy.
@@ -15751,7 +15744,6 @@ the East, and taking a rueful sight along it, as if it had been a
 telescope; “there I saw him, on the Line, last season.”
 
 “And he took that arm off, did he?” asked Ahab, now sliding down from
-the capstan, and resting on the Englishman’s shoulder, as he did so.
 
 “Aye, he was the cause of it, at least; and that leg, too?”
 
@@ -20678,7 +20670,6 @@ contain "Defects," such as, but not limited to, incomplete, inaccurate
 or corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
 
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
