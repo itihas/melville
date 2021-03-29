@@ -91,9 +91,7 @@ CHAPTER 72. The Monkey-Rope.
 CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk
 over Him.
 CHAPTER 74. The Sperm Whale’s Head—Contrasted View.
-
 CHAPTER 75. The Right Whale’s Head—Contrasted View.
-
 CHAPTER 76. The Battering-Ram.
 
 CHAPTER 77. The Great Heidelburgh Tun.
@@ -1086,7 +1084,6 @@ resemblance to a gigantic fish? even the great leviathan himself?
 In fact, the artist’s design seemed this: a final theory of my own,
 partly based upon the aggregated opinions of many aged persons with
 whom I conversed upon the subject. The picture represents a Cape-Horner
-in a great hurricane; the half-foundered ship weltering there with its
 three dismantled masts alone visible; and an exasperated whale,
 purposing to spring clean over the craft, is in the enormous act of
 impaling himself upon the three mast-heads.
@@ -2097,7 +2094,6 @@ large brown hands across his chest, uplifted his closed eyes, and
 offered a prayer so deeply devout that he seemed kneeling and praying
 at the bottom of the sea.
 
-This ended, in prolonged solemn tones, like the continual tolling of a
 bell in a ship that is foundering at sea in a fog—in such tones he
 commenced reading the following hymn; but changing his manner towards
 the concluding stanzas, burst forth with a pealing exultation and joy—
@@ -15738,7 +15734,6 @@ increased, besides perhaps improving it in quality.
 CHAPTER 96. The Try-Works.
 
 Besides her hoisted boats, an American whaler is outwardly
-distinguished by her try-works. She presents the curious anomaly of the
 most solid masonry joining with oak and hemp in constituting the
 completed ship. It is as if from the open field a brick-kiln were
 transported to her planks.
@@ -21338,7 +21333,6 @@ access to or distributing Project Gutenberg-tm electronic works
   does not agree to the terms of the full Project Gutenberg-tm
   License. You must require such a user to return or destroy all
   copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
   works.
 
 * You provide, in accordance with paragraph 1.F.3, a full refund of
