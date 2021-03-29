@@ -430,12 +430,10 @@ EXTRACTS.
   “The voyages of the Dutch and English to the Northern Ocean, in
   they failed of their main object, laid-open the haunts of the whale.”
   —_McCulloch’s Commercial Dictionary_.
-
   “These things are reciprocal; the ball rebounds, only to bound
   forward again; for now in laying open the haunts of the whale, the
   whalemen seem to have indirectly hit upon new clews to that same
   mystic North-West Passage.” —_From_ “_Something_” _unpublished_.
-
   “It is impossible to meet a whale-ship on the ocean without being
   struck by her near appearance. The vessel under short sail, with
   look-outs at the mast-heads, eagerly scanning the wide expanse around
@@ -971,7 +969,6 @@ rather not sleep with your own brother. I don’t know how it is, but
 people like to be private when they are sleeping. And when it comes to
 sleeping with an unknown stranger, in a strange inn, in a strange town,
 and that stranger a harpooneer, then your objections indefinitely
-multiply. Nor was there any earthly reason why I as a sailor should
 sleep two in a bed, more than anybody else; for sailors no more sleep
 two in a bed at sea, than bachelor Kings do ashore. To be sure they all
 sleep together in one apartment, but you have your own hammock, and
@@ -5300,7 +5297,6 @@ common luck, together with their common vigilance, intrepidity, and
 hard work; though all these things do in some cases tend to beget a
 how much like an old Mesopotamian family these whalemen may, in some
 primitive instances, live together; for all that, the punctilious
-externals, at least, of the quarter-deck are seldom materially relaxed,
 and in no instance done away. Indeed, many are the Nantucket ships in
 grandeur not surpassed in any military navy; nay, extorting almost as
 much outward homage as if he wore the imperial purple, and not the
@@ -5545,7 +5541,6 @@ their tower, have intended to rear the loftiest mast-head in all Asia,
 or Africa either; yet (ere the final truck was put to it) as that great
 stone mast of theirs may be said to have gone by the board, in the
 dread gale of God’s wrath; therefore, we cannot give these Babel
-builders priority over the Egyptians. And that the Egyptians were a
 belief among archæologists, that the first pyramids were founded for
 astronomical purposes: a theory singularly supported by the peculiar
 stair-like formation of all four sides of those edifices; whereby, with
@@ -16756,7 +16751,6 @@ pike-heads, harpoons, and lances, and jealously watching his every
 sooty movement, as he toiled. Nevertheless, this old man’s was a
 patient hammer wielded by a patient arm. No murmur, no impatience, no
 still further his chronically broken back, he toiled away, as if toil
-were life itself, and the heavy beating of his hammer the heavy beating
 of his heart. And so it was.—Most miserable!
 
 A peculiar walk in this old man, a certain slight but painful appearing
@@ -16977,7 +16971,6 @@ remorseless fang.
 These are the times, when in his whale-boat the rover softly feels a
 certain filial, confident, land-like feeling towards the sea; that he
 regards it as so much flowery earth; and the distant ship revealing
-only the tops of her masts, seems struggling forward, not through high
 rolling waves, but through the tall grass of a rolling prairie: as when
 the western emigrants’ horses only show their erected ears, while their
 hidden bodies widely wade through the amazing verdure.
@@ -19853,7 +19846,6 @@ children, only found another orphan.
 This and all associated files of various formats will be found in:
     https://www.gutenberg.org/2/7/0/2701/
 
-be renamed.
 
 law means that no one owns a United States copyright in these works,
 so the Foundation (and you!) can copy and distribute it in the
