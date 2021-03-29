@@ -45,11 +45,8 @@ CHAPTER 24. The Advocate.
 CHAPTER 25. Postscript.
 CHAPTER 26. Knights and Squires.
 CHAPTER 27. Knights and Squires.
-
 CHAPTER 28. Ahab.
-
 CHAPTER 29. Enter Ahab; to Him, Stubb.
-
 CHAPTER 30. The Pipe.
 
 CHAPTER 31. Queen Mab.
@@ -878,7 +875,6 @@ honorable respectable toils, trials, and tribulations of every kind
 whatsoever. It is quite as much as I can do to take care of myself,
 without taking care of ships, barques, brigs, schooners, and what not.
 And as for going as cook,—though I confess there is considerable glory
-in that, a cook being a sort of officer on ship-board—yet, somehow, I
 never fancied broiling fowls;—though once broiled, judiciously
 buttered, and judgmatically salted and peppered, there is no one who
 will speak more respectfully, not to say reverentially, of a broiled
@@ -8720,7 +8716,6 @@ Upon this, Daggoo, with either hand upon the gunwale to steady his way,
 swiftly slid aft, and then erecting himself volunteered his lofty
 shoulders for a pedestal.
 
-“Good a mast-head as any, sir. Will you mount?”
 
 “That I will, and thank ye very much, my fine fellow; only I wish you
 fifty feet taller.”
@@ -9520,7 +9515,6 @@ than common. They supposed a sword-fish had stabbed her, gentlemen. But
 the captain, having some unusual reason for believing that rare good
 luck awaited him in those latitudes; and therefore being very averse to
 quit them, and the leak not being then considered at all dangerous,
-though, indeed, they could not find it after searching the hold as low
 down as was possible in rather heavy weather, the ship still continued
 her cruisings, the mariners working at the pumps at wide and easy
 intervals; but no good luck came; more days went by, and not only was
