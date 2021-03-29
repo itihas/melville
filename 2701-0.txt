@@ -2101,10 +2101,8 @@ time, ain’t it, Mrs. Hussey?”
 But being in a great hurry to resume scolding the man in the purple
 but the word “clam,” Mrs. Hussey hurried towards an open door leading
 to the kitchen, and bawling out “clam for two,” disappeared.
-
 “Queequeg,” said I, “do you think that we can make out a supper for us
 both on one clam?”
-
 However, a warm savory steam from the kitchen served to belie the
 apparently cheerless prospect before us. But when that smoking chowder
 came in, the mystery was delightfully explained. Oh, sweet friends!
@@ -2118,7 +2116,6 @@ bethinking me of Mrs. Hussey’s clam and cod announcement, I thought I
 would try a little experiment. Stepping to the kitchen door, I uttered
 the word “cod” with great emphasis, and resumed my seat. In a few
 moments the savoury steam came forth again, but with a different
-
 We resumed business; and while plying our spoons in the bowl, thinks I
 to myself, I wonder now if this here has any effect on the head? What’s
 that stultifying saying about chowder-headed people? “But look,
@@ -7138,7 +7135,6 @@ mate, Mr. Starbuck, is by far the most careful and prudent. I suppose
 then, that going plump on a flying whale with your sail set in a foggy
 
 “Certain. I’ve lowered for whales from a leaking ship in a gale off
-Cape Horn.”
 
 “Mr. Flask,” said I, turning to little King-Post, who was standing
 close by; “you are experienced in these things, and I am not. Will you
@@ -8870,7 +8866,6 @@ flying-fish, and other vivacious denizens of more stirring waters, than
 those off the Rio de la Plata, or the in-shore ground off Peru.
 
 It was my turn to stand at the foremast-head; and with my shoulders
-leaning against the slackened royal shrouds, to and fro I idly swayed
 in what seemed an enchanted air. No resolution could withstand it; in
 my body; though my body still continued to sway as a pendulum will,
 long after the power which first moved it is withdrawn.
@@ -17425,7 +17420,6 @@ will; and would old Ahab had leaned oftener than he has.”
 put good work into that leg.”
 
 
-“Aye! and all splintered to pieces, Stubb!—d’ye see it.—But even with a
 broken bone, old Ahab is untouched; and I account no living bone of
 mine one jot more me, than this dead one that’s lost. Nor white whale,
 inaccessible being. Can any lead touch yonder floor, any mast scrape
@@ -17743,7 +17737,6 @@ became jagged and crunched, and left small splinters in the sea, at
 almost every dip.
 
 “Heed them not! those teeth but give new rowlocks to your oars. Pull
-on! ’tis the better rest, the shark’s jaw than the yielding water.”
 
 
 “They will last long enough! pull on!—But who can tell”—he
@@ -18045,7 +18038,6 @@ full Project Gutenberg-tm License as specified in paragraph 1.E.1.
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
 
 * You pay a royalty fee of 20% of the gross profits you derive from
   the use of Project Gutenberg-tm works calculated using the method
