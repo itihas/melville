@@ -15,8 +15,6 @@ Produced by: Daniel Lazarus, Jonesey, and David Widger
 *** START OF THE PROJECT GUTENBERG EBOOK MOBY-DICK; OR THE WHALE ***
 
 
-
-
 MOBY-DICK;
 
 or, THE WHALE.
@@ -2438,7 +2436,6 @@ how furiously they mob him with their questions. ‘What is thine
 occupation? Whence comest thou? Thy country? What people? But mark now,
 my shipmates, the behavior of poor Jonah. The eager mariners but ask
 him who he is, and where from; whereas, they not only receive an answer
-to those questions, but likewise another answer to a question not put
 by them, but the unsolicited answer is forced from Jonah by the hard
 hand of God that is upon him.
 
@@ -12313,7 +12310,6 @@ By and by, through the glass the stranger’s boats and manned mast-heads
 proved her a whale-ship. But as she was so far to windward, and
 shooting by, apparently making a passage to some other ground, the
 Pequod could not hope to reach her. So the signal was set to see what
-response would be made.
 
 Here be it said, that like the vessels of military marines, the ships
 of the American Whale Fleet have each a private signal; all which
@@ -13411,7 +13407,6 @@ sight!
 “Man overboard!” cried Daggoo, who amid the general consternation first
 came to his senses. “Swing the bucket this way!” and putting one foot
 into it, so as the better to secure his slippery hand-hold on the whip
-itself, the hoisters ran him high up to the top of the head, almost
 was a terrible tumult. Looking over the side, they saw the before
 lifeless head throbbing and heaving just below the surface of the sea,
 as if that moment seized with some momentous idea; whereas it was only
@@ -16437,7 +16432,6 @@ books the same. The truest of all men was the Man of Sorrows, and the
 truest of all books is Solomon’s, and Ecclesiastes is the fine hammered
 steel of woe. “All is vanity.” ALL. This wilful world hath not got hold
 of unchristian Solomon’s wisdom yet. But he who dodges hospitals and
-jails, and walks fast crossing graveyards, and would rather talk of
 operas than hell; calls Cowper, Young, Pascal, Rousseau, poor devils
 all of sick men; and throughout a care-free lifetime swears by Rabelais
 as passing wise, and therefore jolly;—not that man is fitted to sit
@@ -18607,7 +18601,6 @@ alluringly spread forth his whole plain of unimaginable, taking
 terrors, and wonderful, new-life adventures; and from the hearts of
 infinite Pacifics, the thousand mermaids sing to them—“Come hither,
 broken-hearted; here is another life without the guilt of intermediate
-death; here are wonders supernatural, without dying for them. Come
 hither! bury thyself in a life which, to your now equally abhorred and
 abhorring, landed world, is more oblivious than death. Come hither! put
 up _thy_ gravestone, too, within the churchyard, and come hither, till
@@ -20782,7 +20775,6 @@ hump was distinctly visible, sliding along the sea as if an isolated
 thing, and continually set in a revolving ring of finest, fleecy,
 greenish foam. He saw the vast, involved wrinkles of the slightly
 projecting head beyond. Before it, far out on the soft Turkish-rugged
-waters, went the glistening white shadow from his broad, milky
 forehead, a musical rippling playfully accompanying the shade; and
 behind, the blue waters interchangeably flowed over into the moving
 valley of his steady wake; and on either hand bright bubbles arose and
