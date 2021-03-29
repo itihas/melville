@@ -308,7 +308,6 @@ EXTRACTS.
   of the Lock_.
 
 
-
   “If we compare land animals in respect to magnitude, with those that
   take up their abode in the deep, we shall find they will appear
   contemptible in the comparison. The whale is doubtless the largest
@@ -10830,7 +10829,6 @@ delectable mess, in flavor somewhat resembling calves’ head, which is
 quite a dish among some epicures; and every one knows that some young
 bucks among the epicures, by continually dining upon calves’ brains, by
 and by get to have a little brains of their own, so as to be able to
-tell a calf’s head from their own heads; which, indeed, requires
 uncommon discrimination. And that is the reason why a young buck with
 an intelligent looking calf’s head before him, is somehow one of the
 saddest sights you can see. The head looks a sort of reproachfully at
@@ -18072,7 +18070,6 @@ placed the death-tube in its rack, and left the place.
 
 CHAPTER 124. The Needle.
 
-Next morning the not-yet-subsided sea rolled in long slow billows of
 mighty bulk, and striving in the Pequod’s gurgling track, pushed her on
 like giants’ palms outspread. The strong, unstaggering breeze abounded
 so, that sky and air seemed vast outbellying sails; the whole world
