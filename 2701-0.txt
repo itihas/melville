@@ -137,13 +137,9 @@ CHAPTER 123. The Musket.
 CHAPTER 124. The Needle.
 CHAPTER 125. The Log and Line.
 CHAPTER 126. The Life-Buoy.
-
 CHAPTER 127. The Deck.
-
 CHAPTER 128. The Pequod Meets The Rachel.
-
 CHAPTER 129. The Cabin.
-
 CHAPTER 130. The Hat.
 
 CHAPTER 131. The Pequod Meets The Delight.
@@ -1715,7 +1711,6 @@ perhaps the mere crossing of Siberia in a sledge drawn by dogs as
 the negro heart of Africa, which was the sum of poor Mungo’s
 performances—this kind of travel, I say, may not be the very best mode
 of attaining a high social polish. Still, for the most part, that sort
-of thing is to be had anywhere.
 
 These reflections just here are occasioned by the circumstance that
 after we were all seated at the table, and I was preparing to hear some
@@ -8514,7 +8509,6 @@ eyes the suspended craft seemed a coral boat grown up to us from the
 bottom of the ocean.
 
 The wind increased to a howl; the waves dashed their bucklers together;
-the whole squall roared, forked, and crackled around us like a white
 fire upon the prairie, in which, unconsumed, we were burning; immortal
 in these jaws of death! In vain we hailed the other boats; as well roar
 to the live coals down the chimney of a flaming furnace as hail those
@@ -10026,7 +10020,6 @@ CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True
 Pictures of Whaling Scenes.
 
 In connexion with the monstrous pictures of whales, I am strongly
-tempted here to enter upon those still more monstrous stories of them
 which are to be found in certain books, both ancient and modern,
 especially in Pliny, Purchas, Hackluyt, Harris, Cuvier, etc. But I pass
 that matter by.
@@ -14327,7 +14320,6 @@ spectacles in the distance evinced the activity of the other boats,
 still engaged in drugging the whales on the frontier of the host; or
 possibly carrying on the war within the first circle, where abundance
 of room and some convenient retreats were afforded them. But the sight
-of the enraged drugged whales now and then blindly darting to and fro
 across the circles, was nothing to what at last met our eyes. It is
 sometimes the custom when fast to a whale more than commonly powerful
 and alert, to seek to hamstring him, as it were, by sundering or
@@ -17307,7 +17299,6 @@ my conscience is in this ship’s keel.—On deck!”
 “Captain Ahab,” said the reddening mate, moving further into the cabin,
 with a daring so strangely respectful and cautious that it almost
 seemed not only every way seeking to avoid the slightest outward
-manifestation of itself, but within also seemed more than half
 distrustful of itself; “A better man than I might well pass over in
 thee what he would quickly enough resent in a younger man; aye, and in
 a happier, Captain Ahab.”
