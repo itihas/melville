@@ -289,13 +289,11 @@ EXTRACTS.
   barrel of herrings in his belly.... One of our harpooneers told me
   that he caught once a whale in Spitzbergen that was white all over.”
   —_A Voyage to Greenland, A.D._ 1671. _Harris Coll_.
-
   “Several whales have come in upon this coast (Fife) Anno 1652, one
   eighty feet in length of the whale-bone kind came in, which (as I was
   informed), besides a vast quantity of oil, did afford 500 weight of
   baleen. The jaws of it stand for a gate in the garden of Pitferren.”
   —_Sibbald’s Fife and Kinross_.
-
   “Myself have agreed to try whether I can master and kill this
   Sperma-ceti whale, for I could never hear of any of that sort that
   was killed by any man, such is his fierceness and swiftness.”
@@ -3741,7 +3739,6 @@ great secret in him.”
 “Morning to ye, shipmates, morning.”
 
 “Morning it is,” said I. “Come along, Queequeg, let’s leave this crazy
-man. But stop, tell me your name, will you?”
 
 “Elijah.”
 
@@ -5465,7 +5462,6 @@ how much like an old Mesopotamian family these whalemen may, in some
 primitive instances, live together; for all that, the punctilious
 externals, at least, of the quarter-deck are seldom materially relaxed,
 and in no instance done away. Indeed, many are the Nantucket ships in
-which you will see the skipper parading his quarter-deck with an elated
 grandeur not surpassed in any military navy; nay, extorting almost as
 much outward homage as if he wore the imperial purple, and not the
 shabbiest of pilot-cloth.
@@ -6518,7 +6514,6 @@ violence and revenge.
 For some time past, though at intervals only, the unaccompanied,
 secluded White Whale had haunted those uncivilized seas mostly
 frequented by the Sperm Whale fishermen. But not all of them knew of
-his existence; only a few of them, comparatively, had knowingly seen
 him; while the number who as yet had actually and knowingly given
 battle to him, was small indeed. For, owing to the large number of
 watery circumference, many of them adventurously pushing their quest
@@ -12364,7 +12359,6 @@ all, but I have ye; for at the time poor Tash fell in, the case had
 been nearly emptied of its lighter contents, leaving little but the
 dense tendinous wall of the well—a double welded, hammered substance,
 as I have before said, much heavier than the sea water, and a lump of
-which sinks in it like lead almost. But the tendency to rapid sinking
 in this substance was in the present instance materially counteracted
 by the other parts of the head remaining undetached from it, so that it
 sank very slowly and deliberately indeed, affording Queequeg a fair
@@ -15948,7 +15942,6 @@ to my late royal friend Tranquo, king of Tranque, one of the Arsacides.
 For being at Tranque, years ago, when attached to the trading-ship Dey
 of Algiers, I was invited to spend part of the Arsacidean holidays with
 the lord of Tranque, at his retired palm villa at Pupella; a sea-side
-glen not very far distant from what our sailors called Bamboo-Town, his
 capital.
 
 Among many other fine qualities, my royal friend Tranquo, being gifted
@@ -19216,7 +19209,6 @@ reserved the doubloon for me. _I_ only; none of ye could have raised
 the White Whale first. There she blows!—there she blows!—there she
 blows! There again!—there again!” he cried, in long-drawn, lingering,
 methodic tones, attuned to the gradual prolongings of the whale’s
-visible jets. “He’s going to sound! In stunsails! Down
 top-gallant-sails! Stand by three boats. Mr. Starbuck, remember, stay
 on board, and keep the ship. Helm there! Luff, luff a point! So;
 steady, man, steady! There go flukes! No, no; only black water! All
