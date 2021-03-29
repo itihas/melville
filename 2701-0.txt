@@ -1146,9 +1146,7 @@ me. It’s dangerous. Besides, I ain’t insured.”
 This being told to Queequeg, he at once complied, and again politely
 say—“I won’t touch a leg of ye.”
 “Good night, landlord,” said I, “you may go.”
-
 I turned in, and never slept better in my life.
-
 
 CHAPTER 4. The Counterpane.
 
@@ -2486,7 +2484,6 @@ commanded another vessel of his own, and now a retired seaman, and one
 of the principal owners of the Pequod,—this old Peleg, during the term
 of his chief-mateship, had built upon her original grotesqueness, and
 inlaid it, all over, with a quaintness both of material and device,
-unmatched by anything except it be Thorkill-Hake’s carved buckler or
 bedstead. She was apparelled like any barbaric Ethiopian emperor, his
 neck heavy with pendants of polished ivory. She was a thing of
 trophies. A cannibal of a craft, tricking herself forth in the chased
@@ -19181,7 +19178,6 @@ goals and ensuring that the Project Gutenberg-tm collection will
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
 
 Section 3. Information about the Project Gutenberg Literary
 Archive Foundation
@@ -19230,7 +19226,6 @@ ways including checks, online payments and credit card donations. To
 Section 5. General Information About Project Gutenberg-tm electronic works
 
 Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
 freely shared with anyone. For forty years, he produced and
 distributed Project Gutenberg-tm eBooks with only a loose network of
 volunteer support.
