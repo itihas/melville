@@ -151,7 +151,6 @@ This text is a combination of etexts, one from the now-defunct ERIS
 project at Virginia Tech and one from Project Gutenberg’s archives. The
 proofreaders of this version are indebted to The University of Adelaide
 was compared with a public domain hard copy version of the text.
-
   (Supplied by a Late Consumptive Usher to a Grammar School.)
 
   The pale Usher—threadbare in coat, heart, body, and brain; I see him
@@ -2605,7 +2604,6 @@ At last, passage paid, and luggage safe, we stood on board the
 schooner. Hoisting sail, it glided down the Acushnet river. On one
 side, New Bedford rose in terraces of streets, their ice-covered trees
 all glittering in the clear, cold air. Huge hills and mountains of
-world-wandering whale ships lay silent and safely moored at last; while
 from others came a sound of carpenters and coopers, with blended noises
 of fires and forges to melt the pitch, all betokening that new cruises
 were on the start; that one most perilous and long voyage ended, only
@@ -3425,7 +3423,6 @@ but no answer. I tried to open it, but it was fastened inside.
 Queequeg! why don’t you speak? It’s I—Ishmael.” But all remained still
 as before. I began to grow alarmed. I had allowed him such abundant
 the key-hole; but the door opening into an odd corner of the room, the
-key-hole prospect was but a crooked and sinister one. I could only see
 shaft of Queequeg’s harpoon, which the landlady the evening previous
 had taken from him, before our mounting to the chamber. That’s strange,
 thought I; but at any rate, since the harpoon stands yonder, and he
@@ -14442,7 +14439,6 @@ possession of a whale previously chased or killed by another party. But
 others are by no means so scrupulous.
 
 Some fifty years ago there was a curious case of whale-trover litigated
-in England, wherein the plaintiffs set forth that after a hard chase of
 a whale in the Northern seas; and when indeed they (the plaintiffs) had
 succeeded in harpooning the fish; they were at last, through peril of
 their lives, obliged to forsake not only their lines, but their boat
