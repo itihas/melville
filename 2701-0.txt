@@ -14,7 +14,6 @@ Language: English
 Produced by: Daniel Lazarus, Jonesey, and David Widger
 *** START OF THE PROJECT GUTENBERG EBOOK MOBY-DICK; OR THE WHALE ***
 MOBY-DICK;
-or, THE WHALE.
 By Herman Melville
 CONTENTS
 ETYMOLOGY.
@@ -4090,7 +4089,6 @@ At last we gained such an offing, that the two pilots were needed no
 longer. The stout sail-boat that had accompanied us began ranging
 
 It was curious and not unpleasing, how Peleg and Bildad were affected
-at this juncture, especially Captain Bildad. For loath to depart, yet;
 very loath to leave, for good, a ship bound on so long and perilous a
 voyage—beyond both stormy Capes; a ship in which some thousands of his
 hard earned dollars were invested; a ship, in which an old shipmate
@@ -8779,7 +8777,6 @@ still used by whalemen in hunting the famous Gallipagos terrapin.
 
 For my humor’s sake, I shall preserve the style in which I once
 narrated it at Lima, to a lounging circle of my Spanish friends, one
-saint’s eve, smoking upon the thick-gilt tiled piazza of the Golden
 on the closer terms with me; and hence the interluding questions they
 occasionally put, and which are duly answered at the time.
 
@@ -14758,7 +14755,6 @@ practised swimmer as to ride in a spring-carriage ashore. But the awful
 middle of such a heartless immensity, my God! who can tell it? Mark,
 they hug their ship and only coast along her sides.
 
-But had Stubb really abandoned the poor little negro to his fate? No;
 he did not mean to, at least. Because there were two boats in his wake,
 and he supposed, no doubt, that they would of course come up to Pip
 very quickly, and pick him up; though, indeed, such considerations
@@ -18360,7 +18356,6 @@ explained the wonder.
 
 Those rocky islands the ship had passed were the resort of great
 numbers of seals, and some young seals that had lost their dams, or
-some dams that had lost their cubs, must have risen nigh the ship and
 kept company with her, crying and sobbing with their human sort of
 only from their peculiar tones when in distress, but also from the
 human look of their round heads and semi-intelligent faces, seen
