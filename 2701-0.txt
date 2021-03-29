@@ -2222,7 +2222,6 @@ the tent.
 “Supposing it be the captain of the Pequod, what dost thou want of
 him?” he demanded.
 “I was thinking of shipping.”
-
 “Thou wast, wast thou? I see thou art no Nantucketer—ever been in a
 stove boat?”
 
@@ -4156,7 +4155,6 @@ upon the throne of the seas. He is not even by any means the largest of
 the whales. Yet, owing to the long priority of his claims, and the
 profound ignorance which, till some seventy years back, invested the
 then fabulous or utterly unknown sperm-whale, and which ignorance to
-this present day still reigns in all but some few scientific retreats
 and whale-ports; this usurpation has been every way complete. Reference
 to nearly all the leviathanic allusions in the great poets of past
 days, will satisfy you that the Greenland whale, without one rival, was
@@ -4590,7 +4588,6 @@ Starbuck,” disappears into the cabin.
 
 When the last echo of his sultan’s step has died away, and Starbuck,
 the first Emir, has every reason to suppose that he is seated, then
-Starbuck rouses from his quietude, takes a few turns along the planks,
 and, after a grave peep into the binnacle, says, with some touch of
 pleasantness, “Dinner, Mr. Stubb,” and descends the scuttle. The second
 Emir lounges about the rigging awhile, and then slightly shaking the
