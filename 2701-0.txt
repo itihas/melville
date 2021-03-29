@@ -12,7 +12,6 @@ Release Date: June, 2001 [eBook #2701]
 [Most recently updated: December 3, 2017]
 Language: English
 
-
 Produced by: Daniel Lazarus, Jonesey, and David Widger
 
 *** START OF THE PROJECT GUTENBERG EBOOK MOBY-DICK; OR THE WHALE ***
@@ -3911,7 +3910,6 @@ went up stairs to go to bed, feeling quite sure by this time Queequeg
 must certainly have brought his Ramadan to a termination. But no; there
 he was just where I had left him; he had not stirred an inch. I began
 to grow vexed with him; it seemed so downright senseless and insane to
-be sitting there all day and half the night on his hams in a cold room,
 holding a piece of wood on his head.
 
 “For heaven’s sake, Queequeg, get up and shake yourself; get up and
@@ -11021,7 +11019,6 @@ his orders to the helmsman, cast his eager glance in the direction
 indicated aloft by the outstretched motionless arm of Daggoo.
 
 Whether the flitting attendance of the one still and solitary jet had
-gradually worked upon Ahab, so that he was now prepared to connect the
 ideas of mildness and repose with the first sight of the particular
 whale he pursued; however this was, or whether his eagerness betrayed
 him; whichever way it might have been, no sooner did he distinctly
@@ -15220,7 +15217,6 @@ The result of this lowering was somewhat illustrative of that sagacious
 saying in the Fishery,—the more whales the less fish. Of all the
 drugged whales only one was captured. The rest contrived to escape for
 the time, but only to be taken, as will hereafter be seen, by some
-other craft than the Pequod.
 
 
 CHAPTER 88. Schools and Schoolmasters.
@@ -22024,7 +22020,6 @@ copyright holder), the work can be copied and distributed to anyone in
 the United States without paying any fees or charges. If you are
 redistributing or providing access to a work with the phrase "Project
 Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
 obtain permission for the use of the work and the Project Gutenberg-tm
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
