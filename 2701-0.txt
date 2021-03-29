@@ -10,7 +10,6 @@ Title: Moby-Dick; or The Whale
 Author: Herman Melville
 Release Date: June, 2001 [eBook #2701]
 [Most recently updated: December 3, 2017]
-
 Language: English
 
 Character set encoding: UTF-8
@@ -4979,7 +4978,6 @@ for the most part was a telling pantomime of action, and not a tame
 chapter of sounds. Yet, for all his hardy sobriety and fortitude, there
 were certain qualities in him which at times affected, and in some
 cases seemed well nigh to overbalance all the rest. Uncommonly
-conscientious for a seaman, and endued with a deep natural reverence,
 the wild watery loneliness of his life did therefore strongly incline
 him to superstition; but to that sort of superstition, which in some
 organizations seems rather to spring, somehow, from intelligence than
@@ -5878,7 +5876,6 @@ of ye, nor can the oldest Nantucketer.
 Thus ends BOOK I. (_Folio_), and now begins BOOK II. (_Octavo_).
 
 OCTAVOES.*—These embrace the whales of middling magnitude, among which
-present may be numbered:—I., the _Grampus_; II., the _Black Fish_;
 III., the _Narwhale_; IV., the _Thrasher_; V., the _Killer_.
 
 *Why this book of whales is not denominated the Quarto is very plain.
@@ -5897,7 +5894,6 @@ him for one. He is of moderate octavo size, varying from fifteen to
 twenty-five feet in length, and of corresponding dimensions round the
 waist. He swims in herds; he is never regularly hunted, though his oil
 is considerable in quantity, and pretty good for light. By some
-fishermen his approach is regarded as premonitory of the advance of the
 great sperm whale.
 
 BOOK II. (_Octavo_), CHAPTER II. (_Black Fish_).—I give the popular
@@ -9386,7 +9382,6 @@ that are there; when the ivory-tusked Pequod sharply bowed to the
 blast, and gored the dark waves in her madness, till, like showers of
 silver chips, the foam-flakes flew over her bulwarks; then all this
 desolate vacuity of life went away, but gave place to sights more
-dismal than before.
 
 Close to our bows, strange forms in the water darted hither and thither
 before us; while thick in our rear flew the inscrutable sea-ravens. And
@@ -14661,7 +14656,6 @@ all hands it is conceded, form the peculiar practical virtues of his
 teachings.
 
 Such is the subtle elasticity of the organ I treat of, that whether
-wielded in sport, or in earnest, or in anger, whatever be the mood it
 be in, its flexions are invariably marked by exceeding grace. Therein
 no fairy’s arm can transcend it.
 
@@ -16381,7 +16375,6 @@ horrible to inhale, and inhale it you must, and not only that, but you
 must live in it for the time. It has an unspeakable, wild, Hindoo odor
 about it, such as may lurk in the vicinity of funereal pyres. It smells
 like the left wing of the day of judgment; it is an argument for the
-pit.
 
 By midnight the works were in full operation. We were clear from the
 carcase; sail had been made; the wind was freshening; the wild ocean
@@ -17810,7 +17803,6 @@ Isles of the sea combined.
 
 Moreover: we are to consider, that from the presumed great longevity of
 whales, their probably attaining the age of a century and more,
-therefore at any one period of time, several distinct adult generations
 must be contemporary. And what that is, we may soon gain some idea of,
 by imagining all the grave-yards, cemeteries, and family vaults of
 creation yielding up the live bodies of all the men, women, and
@@ -21801,7 +21793,6 @@ unwinking eye? And now poor Stubb goes to bed upon a mattrass that is
 all too soft; would it were stuffed with brushwood! I grin at thee,
 thou grinning whale! Look ye, sun, moon, and stars! I call ye assassins
 of as good a fellow as ever spouted up his ghost. For all that, I would
-yet ring glasses with ye, would ye but hand the cup! Oh, oh! oh, oh!
 thou grinning whale, but there’ll be plenty of gulping soon! Why fly ye
 not, O Ahab! For me, off shoes and jacket to it; let Stubb die in his
 drawers! A most mouldy and over salted death, though;—cherries!
