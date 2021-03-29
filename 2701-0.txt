@@ -15,7 +15,6 @@ Produced by: Daniel Lazarus, Jonesey, and David Widger
 *** START OF THE PROJECT GUTENBERG EBOOK MOBY-DICK; OR THE WHALE ***
 MOBY-DICK;
 or, THE WHALE.
-
 By Herman Melville
 
 
@@ -4388,7 +4387,6 @@ twilight, strangely peering from Queequeg to me. It was Elijah.
 “Yes, we are,” said I, “but what business is that of yours? Do you
 know, Mr. Elijah, that I consider you a little impertinent?”
 
-“No, no, no; I wasn’t aware of that,” said Elijah, slowly and
 wonderingly looking from me to Queequeg, with the most unaccountable
 glances.
 
@@ -6724,7 +6722,6 @@ out. What say ye, men, will ye splice hands on it, now? I think ye do
 look brave.”
 
 “Aye, aye!” shouted the harpooneers and seamen, running closer to the
-excited old man: “A sharp eye for the white whale; a sharp lance for
 Moby Dick!”
 
 “God bless ye,” he seemed to half sob and half shout. “God bless ye,
@@ -8119,7 +8116,6 @@ trances of torments does that man endure who is consumed with one
 unachieved revengeful desire. He sleeps with clenched hands; and wakes
 with his own bloody nails in his palms.
 
-Often, when forced from his hammock by exhausting and intolerably vivid
 dreams of the night, which, resuming his own intense thoughts through
 the day, carried them on amid a clashing of phrensies, and whirled them
 round and round and round in his blazing brain, till the very throbbing
@@ -18209,7 +18205,6 @@ you would have almost thought that he had really received the blaze of
 the levelled tube. But, mastering his emotion, he half calmly rose, and
 as he quitted the cabin, paused for an instant and said: “Thou hast
 outraged, not insulted me, sir; but for that I ask thee not to beware
-of Starbuck; thou wouldst but laugh; but let Ahab beware of Ahab;
 beware of thyself, old man.”
 
 “He waxes brave, but nevertheless obeys; most careful bravery that!”
@@ -19386,7 +19381,6 @@ CHAPTER 121. Midnight.—The Forecastle Bulwarks.
 _Stubb and Flask mounted on them, and passing additional lashings over
 the anchors there hanging._
 
-“No, Stubb; you may pound that knot there as much as you please, but
 you will never pound into me what you were just now saying. And how
 long ago is it since you said the very contrary? Didn’t you once say
 that whatever ship Ahab sails in, that ship should pay something extra
@@ -19403,7 +19397,6 @@ Aquarius, or the water-bearer, Flask; might fill pitchers at your coat
 collar. Don’t you see, then, that for these extra risks the Marine
 Insurance companies have extra guarantees? Here are hydrants, Flask.
 But hark, again, and I’ll answer ye the other thing. First take your
-leg off from the crown of the anchor here, though, so I can pass the
 rope; now listen. What’s the mighty difference between holding a mast’s
 lightning-rod in the storm, and standing close by a mast that hasn’t
 got any lightning-rod at all in a storm? Don’t you see, you
