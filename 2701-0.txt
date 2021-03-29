@@ -163,10 +163,8 @@ was compared with a public domain hard copy version of the text.
   “WHALE. * * * Sw. and Dan. _hval_. This animal is named from
   roundness or rolling; for in Dan. _hvalt_ is arched or vaulted.”
   —_Webster’s Dictionary._
-
   “WHALE. * * * It is more immediately from the Dut. and Ger. _Wallen_;
   A.S. _Walw-ian_, to roll, to wallow.” —_Richardson’s Dictionary._
-
 
   חו,                 _Hebrew_.
   ϰητος,              _Greek_.
@@ -262,7 +260,6 @@ EXTRACTS.
   great security, and there sleeps.” —MONTAIGNE. —_Apology for Raimond
 
   “Let us fly, let us fly! Old Nick take me if is not Leviathan
-  described by the noble prophet Moses in the life of patient Job.”
   —_Rabelais_.
 
   “This whale’s liver was two cartloads.” —_Stowe’s Annals_.
@@ -2555,7 +2552,6 @@ whether all whaling ships did not find their own harpoons. To this, in
 substance, he replied, that though what I hinted was true enough, yet
 he had a particular affection for his own harpoon, because it was of
 assured stuff, well tried in many a mortal combat, and deeply intimate
-with the hearts of whales. In short, like many inland reapers and
 mowers, who go into the farmers’ meadows armed with their own
 scythes—though in no wise obliged to furnish them—even so, Queequeg,
 
@@ -16734,7 +16730,6 @@ countless host to the present human population of the globe.
 Wherefore, for all these things, we account the whale immortal in his
 species, however perishable in his individuality. He swam the seas
 before the continents broke water; he once swam over the site of the
-Tuileries, and Windsor Castle, and the Kremlin. In Noah’s flood he
 despised Noah’s Ark; and if ever the world is to be again flooded, like
 the Netherlands, to kill off its rats, then the eternal whale will
 flood, spout his frothed defiance to the skies.
@@ -19279,7 +19274,6 @@ the deck; and when the deck-ends of these ropes are being every few
 minutes cast down from the fastenings, it would be but a natural
 should by some carelessness of the crew be cast adrift and fall all
 swooping to the sea. So Ahab’s proceedings in this matter were not
-unusual; the only strange thing about them seemed to be, that Starbuck,
 almost the one only man who had ever ventured to oppose him with
 anything in the slightest degree approaching to decision—one of those
 too, whose faithfulness on the look-out he had seemed to doubt
@@ -20666,7 +20660,6 @@ license, especially commercial redistribution.
 START: FULL LICENSE
 
 THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
