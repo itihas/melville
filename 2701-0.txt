@@ -245,9 +245,7 @@ EXTRACTS.
   “_History of Life and Death_.”
   “The sovereignest thing on earth is parmacetti for an inward bruise.”
   —_King Henry_.
-
   “Very like a whale.” —_Hamlet_.
-
 
   “Which to secure, no skill of leach’s art Mote him availle, but to
   returne againe To his wound’s worker, that with lowly dart, Dinting
@@ -5532,7 +5530,6 @@ the community of interest prevailing among a company, all of whom, high
 or low, depend for their profits, not upon fixed wages, but upon their
 common luck, together with their common vigilance, intrepidity, and
 hard work; though all these things do in some cases tend to beget a
-less rigorous discipline than in merchantmen generally; yet, never mind
 how much like an old Mesopotamian family these whalemen may, in some
 primitive instances, live together; for all that, the punctilious
 externals, at least, of the quarter-deck are seldom materially relaxed,
@@ -9400,7 +9397,6 @@ to his pinioned foe.
 
 “‘So I am, but take that.’ The mate was in the very act of striking,
 when another hiss stayed his uplifted arm. He paused: and then pausing
-no more, made good his word, spite of Steelkilt’s threat, whatever that
 might have been. The three men were then cut down, all hands were
 turned to, and, sullenly worked by the moody seamen, the iron pumps
 clanged as before.
