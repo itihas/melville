@@ -441,7 +441,6 @@ EXTRACTS.
   Globe narrative_.
 
   “The voyages of the Dutch and English to the Northern Ocean, in
-  order, if possible, to discover a passage through it to India, though
   they failed of their main object, laid-open the haunts of the whale.”
   —_McCulloch’s Commercial Dictionary_.
 
@@ -3395,7 +3394,6 @@ CHAPTER 18. His Mark.
 
 As we were walking down the end of the wharf towards the ship, Queequeg
 carrying his harpoon, Captain Peleg in his gruff voice loudly hailed us
-from his wigwam, saying he had not suspected my friend was a cannibal,
 and furthermore announcing that he let no cannibals on board that
 craft, unless they previously produced their papers.
 
@@ -10866,7 +10864,6 @@ himself comfortable in all weathers, in all seas, times, and tides.
 What would become of a Greenland whale, say, in those shuddering, icy
 seas of the North, if unsupplied with his cosy surtout? True, other
 fish are found exceedingly brisk in those Hyperborean waters; but
-these, be it observed, are your cold-blooded, lungless fish, whose very
 bellies are refrigerators; creatures, that warm themselves under the
 lee of an iceberg, as a traveller in winter would bask before an inn
 fire; whereas, like man, the whale has lungs and warm blood. Freeze his
@@ -13990,7 +13987,6 @@ the poor mariners in their respectful consternation—so truly
 English—knowing not what to say, fall to vigorously scratching their
 heads all round; meanwhile ruefully glancing from the whale to the
 stranger. But that did in nowise mend the matter, or at all soften the
-hard heart of the learned gentleman with the copy of Blackstone. At
 length one of them, after long scratching about for his ideas, made
 bold to speak,
 
@@ -14508,7 +14504,6 @@ time he did not breast out the line; and hence, when the whale started
 to run, Pip was left behind on the sea, like a hurried traveller’s
 trunk. Alas! Stubb was but too true to his word. It was a beautiful,
 bounteous, blue day; the spangled sea calm and cool, and flatly
-stretching away, all round, to the horizon, like gold-beater’s skin
 hammered out to the extremest. Bobbing up and down in that sea, Pip’s
 ebon head showed like a head of cloves. No boat-knife was lifted when
 he fell so rapidly astern. Stubb’s inexorable back was turned upon him;
@@ -14850,7 +14845,6 @@ up into the wind, and very probably capsizing her. How glad and how
 grateful the relief from this unnatural hallucination of the night, and
 the fatal contingency of being brought by the lee!
 
-Look not too long in the face of the fire, O man! Never dream with thy
 hand on the helm! Turn not thy back to the compass; accept the first
 hint of the hitching tiller; believe not the artificial fire, when its
 redness makes all things look ghastly. To-morrow, in the natural sun,
@@ -17247,7 +17241,6 @@ flooded world. “I have dreamed it again,” said he.
 “Of the hearses? Have I not said, old man, that neither hearse nor
 coffin can be thine?”
 
-“And who are hearsed that die on the sea?”
 
 “But I said, old man, that ere thou couldst die on this voyage, two
 hearses must verily be seen by thee on the sea; the first not made by
