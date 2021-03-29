@@ -457,10 +457,8 @@ EXTRACTS.
   tree extended its branches.” —_Darwin’s Voyage of a Naturalist_.
   “‘Stern all!’ exclaimed the mate, as upon turning his head, he saw
   the distended jaws of a large Sperm Whale close to the head of the
-  boat, threatening it with instant destruction;—‘Stern all, for your
   lives!’” —_Wharton the Whale Killer_.
   “So be cheery, my lads, let your hearts never fail, While the bold
-
 
   “Oh, the rare old Whale, mid storm and gale In his ocean home will be
   A giant in might, where might is right, And King of the boundless
@@ -2248,7 +2246,6 @@ nourished in his untutored youth.
 
 A Sag Harbor ship visited his father’s bay, and Queequeg sought a
 passage to Christian lands. But the ship, having her full complement of
-could prevail. But Queequeg vowed a vow. Alone in his canoe, he paddled
 off to a distant strait, which he knew the ship must pass through when
 she quitted the island. On one side was a coral reef; on the other a
 low tongue of land, covered with mangrove thickets that grew out into
@@ -4011,7 +4008,6 @@ mariner, encountered in New Bedford at the inn.
 When on that shivering winter’s night, the Pequod thrust her vindictive
 bows into the cold malicious waves, who should I see standing at her
 helm but Bulkington! I looked with sympathetic awe and fearfulness upon
-the man, who in mid-winter just landed from a four years’ dangerous
 tempestuous term. The land seemed scorching to his feet. Wonderfullest
 things are ever the unmentionable; deep memories yield no epitaphs;
 this six-inch chapter is the stoneless grave of Bulkington. Let me only
@@ -7307,7 +7303,6 @@ in command of another ship, but the gods shipwrecked him again upon
 unknown rocks and breakers; for the second time his ship was utterly
 lost, and forthwith forswearing the sea, he has never tempted it since.
 At this day Captain Pollard is a resident of Nantucket. I have seen
-Owen Chace, who was chief mate of the Essex at the time of the tragedy;
 I have read his plain and faithful narrative; I have conversed with his
 son; and all this within a few miles of the scene of the catastrophe.*
 
@@ -8906,7 +8901,6 @@ companionway. Then opening the slide a little, the Captain whispered
 something down the crack, closed it, and turned the key upon them—ten
 remained neutral.
 
-“All night a wide-awake watch was kept by all the officers, forward and
 which last place it was feared the insurgents might emerge, after
 breaking through the bulkhead below. But the hours of darkness passed
 in peace; the men who still remained at their duty toiling hard at the
@@ -16430,7 +16424,6 @@ outraged, not insulted me, sir; but for that I ask thee not to beware
 beware of thyself, old man.”
 
 “He waxes brave, but nevertheless obeys; most careful bravery that!”
-murmured Ahab, as Starbuck disappeared. “What’s that he said—Ahab
 beware of Ahab—there’s something there!” Then unconsciously using the
 musket for a staff, with an iron brow he paced to and fro in the little
 cabin; but presently the thick plaits of his forehead relaxed, and
@@ -16526,7 +16519,6 @@ much lee-way adown the dim ages.
 Now, when this strange circumstance was made known aft, the carpenter
 was at once commanded to do Queequeg’s bidding, whatever it might
 include. There was some heathenish, coffin-coloured old lumber aboard,
-which, upon a long previous voyage, had been cut from the aboriginal
 groves of the Lackaday islands, and from these dark planks the coffin
 was recommended to be made. No sooner was the carpenter apprised of the
 order, than taking his rule, he forthwith with all the indifferent
