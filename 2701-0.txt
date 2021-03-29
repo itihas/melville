@@ -3085,7 +3085,6 @@ Now when I looked about the quarter-deck, for some one having
 authority, in order to propose myself as a candidate for the voyage, at
 first I saw nobody; but I could not well overlook a strange sort of
 tent, or rather wigwam, pitched a little behind the main-mast. It
-seemed only a temporary erection used in port. It was of a conical
 shape, some ten feet high; consisting of the long, huge slabs of limber
 black bone taken from the middle and highest part of the jaws of the
 right-whale. Planted with their broad ends on the deck, a circle of
@@ -6881,7 +6880,6 @@ thou the ring?
 MATE’S VOICE FROM THE QUARTER-DECK. Hands by the halyards! in
 top-gallant sails! Stand by to reef topsails!
 
-ALL. The squall! the squall! jump, my jollies! (_They scatter_.)
 
 PIP (_shrinking under the windlass_). Jollies? Lord help such jollies!
 Crish, crash! there goes the jib-stay! Blang-whang! God! Duck lower,
@@ -9356,7 +9354,6 @@ though in his infancy he may have laid him down on the lone Nantucket
 beach, to nurse at his maternal sea; though in after life he had long
 followed our austere Atlantic and your contemplative Pacific; yet was
 he quite as vengeful and full of social quarrel as the backwoods
-seaman, fresh from the latitudes of buck-horn handled Bowie-knives. Yet
 was this Nantucketer a man with some good-hearted traits; and this
 Lakeman, a mariner, who though a sort of devil indeed, might yet by
 inflexible firmness, only tempered by that common decency of human
@@ -9718,7 +9715,6 @@ handle at each end) run amuck from the bowsprit to the taffrail; and if
 by any devilishness of desperation possible, seize the ship. For
 himself, he would do this, he said, whether they joined him or not.
 That was the last night he should spend in that den. But the scheme met
-with no opposition on the part of the other two; they swore they were
 ready for that, or for any other mad thing, for anything in short but a
 surrender. And what was more, they each insisted upon being the first
 man on deck, when the time to make the rush should come. But to this
@@ -12375,7 +12371,6 @@ that?
 
 “Duck him again; and keep ducking him.”
 
-“Suppose he should take it into his head to duck you, though—yes, and
 drown you—what then?”
 
 “I should like to see him try it; I’d give him such a pair of black
@@ -15168,7 +15163,6 @@ constantly filled their olfactories.
 
 Stubb was struck by a shower of outcries and anathemas proceeding from
 fiery face thrust from behind the door, which was held ajar from
-within. This was the tormented surgeon, who, after in vain
 remonstrating against the proceedings of the day, had betaken himself
 to the Captain’s round-house (_cabinet_ he called it) to avoid the
 pest; but still, could not help yelling out his entreaties and
